@@ -30,5 +30,4 @@ Test the Source Selection Algorithm
 dpSSMCO_objectdetection.py for dynamic programming version
 greddySSMCO_objectdetection.py for greedy method
 
-
-aaaaccc
+test
